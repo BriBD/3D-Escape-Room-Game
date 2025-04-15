@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Escape.sln"
+    "dotnet.defaultSolution": "3D-Escape-Room-Game.sln"
 }
